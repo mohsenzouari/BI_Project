@@ -1,3 +1,2 @@
-*.cs linguist-detectable=C#
-*.sql linguist-detectable=TSQL
+*.java linguist-language=java
 
